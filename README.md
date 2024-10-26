@@ -1,1 +1,1 @@
-# myFristREpositiry-
+# myFristRepositiry
